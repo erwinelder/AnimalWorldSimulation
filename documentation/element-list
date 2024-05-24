@@ -1,0 +1,6 @@
+module:simulation.animal_simulation
+simulation.animal_simulation
+simulation.animal_simulation.animals
+simulation.animal_simulation.map
+simulation.animal_simulation.map.navigation
+simulation.animal_simulation.map.plants
